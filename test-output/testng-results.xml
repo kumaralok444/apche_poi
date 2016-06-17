@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8646" started-at="2016-03-23T12:06:23Z" finished-at="2016-03-23T12:06:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8646" started-at="2016-03-23T12:06:23Z" finished-at="2016-03-23T12:06:31Z">
+      <class name="apche_poi.Test1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:apche_poi.Test1@1d9d4b]" name="setUp" is-config="true" duration-ms="5762" started-at="2016-03-23T17:36:23Z" finished-at="2016-03-23T17:36:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCAse1(java.lang.String, java.lang.String)[pri:0, instance:apche_poi.Test1@1d9d4b]" name="testCAse1" duration-ms="842" started-at="2016-03-23T17:36:29Z" data-provider="loginData" finished-at="2016-03-23T17:36:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCAse1 -->
+        <test-method status="PASS" signature="testCAse1(java.lang.String, java.lang.String)[pri:0, instance:apche_poi.Test1@1d9d4b]" name="testCAse1" duration-ms="265" started-at="2016-03-23T17:36:30Z" data-provider="loginData" finished-at="2016-03-23T17:36:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[system]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[user]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCAse1 -->
+        <test-method status="PASS" signature="testCAse1(java.lang.String, java.lang.String)[pri:0, instance:apche_poi.Test1@1d9d4b]" name="testCAse1" duration-ms="231" started-at="2016-03-23T17:36:30Z" data-provider="loginData" finished-at="2016-03-23T17:36:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[prabha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[karan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCAse1 -->
+        <test-method status="PASS" signature="testCAse1(java.lang.String, java.lang.String)[pri:0, instance:apche_poi.Test1@1d9d4b]" name="testCAse1" duration-ms="223" started-at="2016-03-23T17:36:31Z" data-provider="loginData" finished-at="2016-03-23T17:36:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[alok]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kumar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCAse1 -->
+        <test-method status="PASS" signature="testCAse1(java.lang.String, java.lang.String)[pri:0, instance:apche_poi.Test1@1d9d4b]" name="testCAse1" duration-ms="234" started-at="2016-03-23T17:36:31Z" data-provider="loginData" finished-at="2016-03-23T17:36:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCAse1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:apche_poi.Test1@1d9d4b]" name="tearDown" is-config="true" duration-ms="413" started-at="2016-03-23T17:36:31Z" finished-at="2016-03-23T17:36:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- apche_poi.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
